@@ -25,8 +25,6 @@ public class JunView extends View {
     /**
      * Activity中的onResume()后才执行
      * measure测量 --> layout摆放(ViewGroup才有)  -->draw绘制
-     *
-     *
      */
     //指定自己的宽高
     @Override
